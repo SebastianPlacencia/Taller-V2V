@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+        <net-file value="/home/vanet/results/V2V/zona_final.net.xml"/>
+        <route-files value="/home/vanet/results/V2V/zona_final.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="300"/>
+        <step-length value="0.05"/>
+    </time>
+    <gui_only>
+        <gui-settings-file value="/home/vanet/results/V2V/vista.xml"/>
+    </gui_only>
+</configuration>

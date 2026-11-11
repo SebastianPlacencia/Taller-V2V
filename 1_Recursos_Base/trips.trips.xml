@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2026-11-10 00:25:01.354663 by randomTrips.py UNKNOWN
+  options: -n zona_final.net.xml -r zona_final.rou.xml -b 0 -e 30 -p 2.5 <doubleminus>fringe-factor 5 <doubleminus>min-distance 250 <doubleminus>prefix veh <doubleminus>seed 42
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="veh0" depart="0.00" from="42201270#2" to="-402525975#1"/>
+    <trip id="veh1" depart="2.50" from="542428844#0" to="29223062#8"/>
+    <trip id="veh2" depart="5.00" from="402191968#5" to="-402525975#1"/>
+    <trip id="veh3" depart="7.50" from="375081257#12" to="402191987#8"/>
+    <trip id="veh4" depart="10.00" from="1118423674#1" to="35287032#1"/>
+    <trip id="veh5" depart="12.50" from="42201270#3" to="403869582#4"/>
+    <trip id="veh6" depart="15.00" from="492468486" to="-402525975#1"/>
+    <trip id="veh7" depart="17.50" from="492468483#0" to="49217123"/>
+    <trip id="veh8" depart="20.00" from="399285450#5" to="351440624#1"/>
+    <trip id="veh9" depart="22.50" from="554582107#0" to="398614656"/>
+    <trip id="veh10" depart="25.00" from="337277962#0" to="337277957#0"/>
+    <trip id="veh11" depart="27.50" from="492471758#0" to="42181485#4"/>
+</routes>
